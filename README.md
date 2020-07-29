@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Blog
 
 ### Projects
-[Unmanned Surface Vehicle](https://github.com/dimitoglou/dimitoglou.github.io/roboat)
+[Unmanned Surface Vehicle](https://dimitoglou.github.io/roboat)
 
 ### Publications
 
